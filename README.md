@@ -15,3 +15,9 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
+## How to Run
+
+1. Clone this repository
+2. Install dependencies: pip install -r requirements.txt
+3. Run the script: python webscraper.py
+4. Output will be saved as countries.csv
