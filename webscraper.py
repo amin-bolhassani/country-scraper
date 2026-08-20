@@ -31,5 +31,5 @@ def scrape_countries():
     print(f"{len(countries)} countries saved.")
 
 
-if name == "__main__":
+if __name__ == "__main__":
     scrape_countries()
